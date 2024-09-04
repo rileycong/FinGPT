@@ -1,0 +1,15 @@
+torch==2.0.1
+transformers==4.32.0
+peft==0.5.0
+pandas
+yfinance==0.1.96
+gnews==0.3.6
+#finnhub-python
+nvidia-ml-py3
+datasets
+openai
+python-dotenv
+#newsapi-python
+newspaper3k
+nltk
+#nltk.download('punkt')
